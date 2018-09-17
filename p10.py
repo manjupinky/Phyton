@@ -1,4 +1,3 @@
-# Phyton
 Number = int(input("Please Enter any Number: "))
 Count = 0
 while(Number > 0):
