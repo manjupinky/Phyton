@@ -1,4 +1,3 @@
-# Phyton
 num =15
 if num < 0:
    print("Enter a positive number")
