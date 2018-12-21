@@ -1,10 +1,7 @@
-
 num = 7
-
-#num = int(input("Enter a number: "))
-
-factorial = 1
-if num < 0:
+num=int(input("Enter a number: "))
+factorial=1
+if num<0:
    print("Sorry, factorial does not exist for negative numbers")
 elif num == 0:
    print("The factorial of 0 is 1")
