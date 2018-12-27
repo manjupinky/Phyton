@@ -1,4 +1,4 @@
-str = 'a123'
+str='b123'
 try:
     i = float(str)
 except (ValueError, TypeError):
