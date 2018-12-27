@@ -1,6 +1,6 @@
-a=int(input("Enter value of first variable: "))
-b=int(input("Enter value of second variable: "))
-a=a+b
-b=a-b
-a=a-b
-print("a is:",a," b is:",b)
+s=int(input("Enter value of first variable: "))
+r=int(input("Enter value of second variable: "))
+s=s+r
+r=s-r
+s=s-r
+print("s is:",s," r is:",r)
