@@ -4,9 +4,9 @@ def Nth_of_AP(a, d, N) :
     return (a + (N - 1) * d) 
        
 
-a = 2  
-d = 1   
-N = 5  
+a = 3  
+d = 2   
+N = 10  
    
  
 print( "The ", N ,"th term of the series is : ", 
