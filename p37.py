@@ -1,8 +1,10 @@
 print("Enter 'x' for exit.");
 num1 = input("Enter first number: ");
+
 if num1 == 'x':
     exit();
-else:
+
+    else:
     num2 = input("Enter second number: ");
     print("\nStarted swapping the given two numbers...");
     number1 = int(num1);
