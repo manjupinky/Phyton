@@ -1,3 +1,7 @@
+
+
+
+
 def firstk():
 	str=input()
 	s=''
