@@ -1,7 +1,7 @@
-a=int(input("enter the no"))
-b=int(input("enter the no"))
+s=int(input("enter the no"))
+r=int(input("enter the no"))
 flag=0
-c=a*b
+c=s*r
 
 for i in range(0,c+1):
     if(i**2==c):
