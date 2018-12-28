@@ -1,10 +1,10 @@
-b=int(input("Enter any number:"))
-for i in range(0,b):
+v=int(input("Enter any number:"))
+for i in range(0,v):
   num=2**i
-  if num>b:
+  if num>v:
     print(num)
     break
-if b==2:
+if v==2:
   print("4")
-elif b==1 or b==0:
+elif v==1 or v==0:
   print("2")
