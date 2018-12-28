@@ -13,6 +13,6 @@ def countOccurrences (s, K):
             C += c1  
               
     
-    return C * K + (K * (K - 1) / 2) * c1 * c2 
+    return C*K+(K*(K-1)/2)*c1*c2 
       
       
