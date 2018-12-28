@@ -1,7 +1,7 @@
-n=int(input("Enter a number:"))
+m=int(input("Enter a number:"))
 tot=0
-while(n>0):
-    dig=n%10
+while(m>0):
+    dig=m%10
     tot=tot+dig
-    n=n//10
+    m=m//10
 print("The total sum of digits is:",tot)
