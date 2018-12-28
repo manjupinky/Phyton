@@ -1,6 +1,6 @@
 def princt():
-	n=input()
-	print(n)
+	h=input()
+	print(h)
 try:
 	princt()
 except:
