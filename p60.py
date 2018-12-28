@@ -1,6 +1,6 @@
-n=int(input("Enter a number: "))
+g=int(input("Enter a number: "))
 sum1 = 0
-while(n > 0):
+while(g> 0):
     sum1=sum1+n
-    n=n-1
+    g=g-1
 print("The sum of first n natural numbers is",sum1)
