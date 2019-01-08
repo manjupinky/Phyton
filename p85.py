@@ -1,6 +1,6 @@
 def str1to2():
-	s=input()
-	l=list(s)
+	g=input()
+	l=list(g)
 	(e,o)=('','')
 	for i in range(len(l)):
 		if i%2==0:
