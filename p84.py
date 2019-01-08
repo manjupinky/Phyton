@@ -1,6 +1,6 @@
 def main():
-	s=input()
-	print(ord(s));
+	w=input()
+	print(ord(w));
 try:
 	main()
 except:
