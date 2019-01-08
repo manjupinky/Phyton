@@ -1,8 +1,8 @@
 def lcm2():
-	(x,y)=map(int,sys.stdin.readline().split())
-	temp=min(x,y)
+	(f,z)=map(int,sys.stdin.readline().split())
+	temp=min(f,z)
 	while(True):
-		if temp%x==0 and temp%y==0:
+		if temp%f==0 and temp%z==0:
 			break
 		temp+=1
 	print(temp);
