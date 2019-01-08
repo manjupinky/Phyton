@@ -1,6 +1,6 @@
 def lex():
-	s=input()
-	l=list(s)
+	r=input()
+	l=list(r)
 	l.sort()
 	c=''.join(l)
 	print(c);
