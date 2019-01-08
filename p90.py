@@ -1,7 +1,7 @@
 
 def onlyint():
-	s=input()
-	l=list(s)
+	p=input()
+	l=list(p)
 	a=''
 	for i in l:
 		if i.isnumeric():
