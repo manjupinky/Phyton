@@ -1,6 +1,6 @@
 def isogram():
-	s=input()
-	l=list(s)
+	k=input()
+	l=list(k)
 	r=[]
 	for i in l:
 		if not i in r:
