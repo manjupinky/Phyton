@@ -1,6 +1,6 @@
 def temp():
-	c=int(input())
-	print(c+273);
+	s=int(input())
+	print(s+273);
 try:
 	temp()
 except:
