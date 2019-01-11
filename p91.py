@@ -1,7 +1,7 @@
 import sys
 def cuboid():
-	l1,b1,h1=map(int,sys.stdin.readline().split())
-	print(l1*b1*h1)
+	l2,b2,h2=map(int,sys.stdin.readline().split())
+	print(l2*b2*h2)
 try:
 	cuboid()
 except:
