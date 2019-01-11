@@ -1,8 +1,8 @@
 def sumall():
-	n=int(input())
+	g=int(input())
 	l=[]
 	sum=0
-	for i in range(n):
+	for i in range(g):
 		l.append(int(input()))
 		sum+=l[i]
 	print(sum);
